@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
-  year = 2012
+  year = 2018
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
