@@ -52,8 +52,8 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "schickw@uni-muenster.de"  # For a direct email link, use "mailto:test@example.org".
-
+  link = "mailto:schickw@uni-muenster.de"  # For a direct email link, use "mailto:test@example.org".
+  
 
 [[social]]
   icon = "google-scholar"
