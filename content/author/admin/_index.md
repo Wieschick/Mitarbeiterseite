@@ -16,7 +16,7 @@ role = "Postdoctoral Researcher/ Lecturer"
 organizations = [ { name = "Institute for Geoinformatics, University of Muenster", url = "https://www.uni-muenster.de/Geoinformatics/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a researcher and lecturer in spatial cognition."
+bio = "I am a researcher and lecturer in the field of spatial cognition."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
