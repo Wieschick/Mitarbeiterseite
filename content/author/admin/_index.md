@@ -52,22 +52,18 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "schickw@uni-muenster.de"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+# [[social]]
+# icon = "github"
+# icon_pack = "fab"
+# link = "https://github.com/gcushen"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,3 +77,4 @@ user_groups = ["Researchers", "Visitors"]
 I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think about, think in, and interact with space.
 
 I am a neuroscienctist by training and I apply psychological methods in the fields of geoinformatics and human-computer interaction. 
+I am also a science slammer and regularly on stage, as I am interested in communicating research, its results and implications to a broad audience. 
