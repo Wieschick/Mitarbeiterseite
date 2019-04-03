@@ -74,7 +74,5 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think about, think in, and interact with space.
-
-I am a neuroscienctist by training and I apply psychological methods in the fields of geoinformatics and human-computer interaction. 
+I am a researcher and lecturer in spatial cognition. I am a neuroscienctist by training and I apply psychological methods in the fields of geoinformatics and human-computer interaction. 
 I am also a science slammer and regularly on stage, as I am interested in communicating research, its results and implications to a broad audience. 
