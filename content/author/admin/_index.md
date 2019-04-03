@@ -39,7 +39,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2018
 
 [[education.courses]]
-  course = "Magister Artium in General Rhetorics, Psychology, Newer Englisch Literature"
+  course = "Magister Artium in General Rhetorics, Psychology, Newer English Literature"
   institution = "Eberhard Karls University of Tübingen, Germany"
   year = 2010
 
