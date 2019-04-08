@@ -14,6 +14,7 @@ subtitle = ""
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
+  Language cues in the formation of hierarchical representations of space
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
   
@@ -32,7 +33,7 @@ subtitle = ""
   
 [design]
   # Toggle between the various page layout types.
-  #   1 = List
+      1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
