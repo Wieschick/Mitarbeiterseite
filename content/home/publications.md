@@ -31,6 +31,12 @@ subtitle = ""
     publication_type = ""
     exclude_featured = false
   
+  title = "Language cues in the formation of hierarchical representations of space"
+  date = "2019-03-08"
+  
+  authors = ["Wiebke Schick, Marc Halfmann, Gregor Hardiess, Friedrich Hamm, Hanspeter A. Mallot"]
+  
+  publication types = ["2"]
 [design]
   # Toggle between the various page layout types.
   #   1 = List
