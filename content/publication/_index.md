@@ -44,7 +44,7 @@ math = false
 highlight = false
 
 # Links (optional)
-url_pdf = https://doi.org/10.1080/13875868.2019.1576692
+url_pdf = "https://doi.org/10.1080/13875868.2019.1576692"
 url_code = ""
 url_dataset = ""
 url_project = ""
