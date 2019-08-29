@@ -17,7 +17,7 @@ title = "Language cues in the formation of hierarchical representations of space
 date = "2019-03"
 
 #authors
-authors = [Wiebke Schick, Marc Halfmann, Gregor Hardiess, Friedrich Hamm, Hanspeter A. Mallot]
+authors = ["Wiebke Schick, Marc Halfmann, Gregor Hardiess, Friedrich Hamm, Hanspeter A. Mallot"]
 
 # Publication type.
 # Legend:
@@ -56,7 +56,7 @@ title = "Sleep enhances knowledge of routes and regions in spatial environments"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Hannes Noack, Wiebke Schick, Hanspeter A. Mallot, Jan Born"]
-publication_types = ["2]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Sleep enhances knowledge of routes and regions in spatial environments"
