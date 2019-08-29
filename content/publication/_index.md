@@ -51,7 +51,6 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-
 +++
 title = "Sleep enhances knowledge of routes and regions in spatial environments"
 
